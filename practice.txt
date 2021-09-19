@@ -5,5 +5,5 @@ never ever give up
 ...
 >>>>>jdhj
 
+<<<<<<< HEAD
 
-conflict issue is there
