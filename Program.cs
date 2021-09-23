@@ -7,7 +7,7 @@ namespace EmpWages
         static void Main(string[] args)
         {
            
-            UseCase5.AddPartimeEmp();
+            UseCase6.AddPartimeEmp();
 
         }
     }
